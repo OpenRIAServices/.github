@@ -8,6 +8,5 @@ configuration:
     minimalChangeRequired:
       codeLines: 5
     bypassUsers:
-        - dependabot[bot]
-        - mend-bolt-for-github[bot]
-    bypassOrgs:
+      - dependabot[bot]
+      - mend-bolt-for-github[bot]
