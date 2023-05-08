@@ -10,3 +10,4 @@ configuration:
     bypassUsers:
       - dependabot[bot]
       - mend-bolt-for-github[bot]
+
